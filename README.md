@@ -1,3 +1,2 @@
-# Pong
-
-Simple & buggy pong game
+# Flappy Bird
+Generational AI for flappy bird
